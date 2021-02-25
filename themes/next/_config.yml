@@ -2,11 +2,16 @@ cache:
   enable: true
 
 
-minify: true
-
 #scheme: Muse
 #scheme: Mist
 #scheme: Pisces
 scheme: Gemini
 
 darknode: true
+
+creative_commons:
+  license: by-nc-sa
+  sidebar: true
+  post: true
+  language: deed.zh
+
