@@ -1,0 +1,12 @@
+cache:
+  enable: true
+
+
+minify: true
+
+#scheme: Muse
+#scheme: Mist
+#scheme: Pisces
+scheme: Gemini
+
+darknode: true
