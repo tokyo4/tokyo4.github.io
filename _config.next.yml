@@ -130,7 +130,7 @@ avatar:
   # url: #/images/avatar.gif
   url: https://avatars.githubusercontent.com/u/79536251?s=400&u=9c4a35318dd75826d3f61914eb69f8d987fe369a&v=4
   # If true, the avatar will be dispalyed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
