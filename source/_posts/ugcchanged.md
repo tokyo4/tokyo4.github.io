@@ -1,5 +1,5 @@
 ---
-title: The dead of ugc in mainland
+title: The Dead of UGC in Mainland
 date: 2021-03-07 17:25:33
 tags: ["ugc" , "mainland" , "tiktok" , "抖音" , "快手" , "baidu" , "bilibili" , "all the ugc in mainland" ]
 ---
