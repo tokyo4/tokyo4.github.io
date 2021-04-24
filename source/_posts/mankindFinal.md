@@ -1,5 +1,5 @@
 ---
-title: mankindFinal
+title: 人类的终态
 date: 2021-04-25 02:15:22
 tags: ['mankind' , 'final' ]
 ---
