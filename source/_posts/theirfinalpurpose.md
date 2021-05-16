@@ -5,6 +5,7 @@ tags:
 ---
 #  伟大的书籍《1984》
 伟大的人 乔治 奥威尔
+<!--more-->
 
 # We know that no one ever seizes power with the intention of relinquishing it. Power is not a means; it is an end.
 
@@ -18,5 +19,5 @@ tags:
 
 他们的最终目的就是统治全人类，在高层形成一个新阶级，然后奴役其他人类，以断绝人类自由民主平等博爱，以及人类社会发展进化的希望为代价，作为他们尽享荣华富贵的成本。
 这就是他们的最终目标。
-人类千年历史上，出现过的最邪恶最坏的一批人。
+人类千年历史上，出现过的最邪恶最坏的一批人,没有之一。
 
