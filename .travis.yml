@@ -1,0 +1,20 @@
+sudo: false
+language: node_js
+node_js:
+  - 15
+cache: npm
+branches:
+  only:
+    - master
+script:
+  - hexo generate
+deplay:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN
+  keep_history: true
+  committer_from_gh: true
+  target_branch: main
+  on:
+    branch: master
+  local-dir: public
