@@ -1,7 +1,7 @@
 ---
 title: thereisonlyoneidol
 date: 2022-10-26 02:21:26
-tags:
+tags: ["idol"]
 ---
 
 # they want to build a world
