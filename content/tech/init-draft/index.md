@@ -11,3 +11,6 @@ title = 'Init Draft'
 github actions应该没问题。
 所以上网查了下，尝试了一堆办法，一开始使用 hugo进行编译，没用。
 后来把每一个文章中的初始化中的设置draft 改为了 false后就可行了。
+官方文档中也有
+
+[Notice the draft value in the front matter is true. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.](https://gohugo.io/getting-started/quick-start/#add-content)
