@@ -9,3 +9,10 @@ theme = 'PaperMod'
 #  [markup.goldmark]
 #    [markup.goldmark.renderer]
 #      unsafe = true
+
+[menu]
+    [[menu.main]]
+        # identifier = ""
+        name = "tech"
+        url = "/tech/"
+        weight = 2
