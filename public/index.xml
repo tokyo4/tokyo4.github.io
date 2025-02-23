@@ -11,7 +11,14 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 19:26:33 +0800</lastBuildDate>
     <atom:link href="https://tokyo4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Try Hugo</title>
+      <link>https://tokyo4.github.io/tech/try-hugo/</link>
+      <pubDate>Sun, 23 Feb 2025 19:26:33 +0800</pubDate>
+      <guid>https://tokyo4.github.io/tech/try-hugo/</guid>
+      <description>&lt;h1 id=&#34;第一次尝试用hugo来搭建自己的github-pages作为自己的blog&#34;&gt;第一次尝试用hugo来搭建自己的github pages，作为自己的blog&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
