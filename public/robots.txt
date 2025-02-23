@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tokyo4.github.io/sitemap.xml
