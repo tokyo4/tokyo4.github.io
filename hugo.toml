@@ -2,3 +2,10 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
+
+# 配置 Goldmark 渲染器，启用 unsafe 选项以允许嵌入 HTML 标签
+# 暂时不开启，直接注释
+# [markup]
+#  [markup.goldmark]
+#    [markup.goldmark.renderer]
+#      unsafe = true
