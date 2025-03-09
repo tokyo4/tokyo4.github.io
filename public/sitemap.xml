@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tokyo4.github.io/tech/init-draft/</loc>
-    <lastmod>2025-02-23T23:01:11+08:00</lastmod>
+    <loc>https://tokyo4.github.io/history/different-perspective/</loc>
+    <lastmod>2025-03-09T14:22:09+08:00</lastmod>
+  </url><url>
+    <loc>https://tokyo4.github.io/history/</loc>
+    <lastmod>2025-03-09T14:22:09+08:00</lastmod>
   </url><url>
     <loc>https://tokyo4.github.io/</loc>
+    <lastmod>2025-03-09T14:22:09+08:00</lastmod>
+  </url><url>
+    <loc>https://tokyo4.github.io/tech/init-draft/</loc>
     <lastmod>2025-02-23T23:01:11+08:00</lastmod>
   </url><url>
     <loc>https://tokyo4.github.io/tech/</loc>

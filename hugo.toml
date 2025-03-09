@@ -1,6 +1,6 @@
 baseURL = 'https://tokyo4.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Right-Angle Feint'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -65,7 +65,7 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = 'Hi there 👋'
-    Content = 'Welcome to my blog'
+    Content = 'Welcome to my blog, Contact: alenzhuoapple@gmail.com;'
 
   [[params.socialIcons]]
     name = 'x'
