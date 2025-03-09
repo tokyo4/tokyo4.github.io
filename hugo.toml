@@ -19,7 +19,6 @@ buildExpired = false
   DateFormat = 'January 2, 2006'
   defaultTheme = 'auto' # dark, light
   disableThemeToggle = false
-  paginate = 10
 
   ShowReadingTime = true
   ShowShareButtons = true
@@ -105,6 +104,11 @@ buildExpired = false
     minMatchCharLength = 0
     limit = 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys = ['title', 'permalink', 'summary', 'content']
+
+  [params.pagination]
+    disableAliases = false
+    pagerSize = 10
+    path = 'page'
 
 [menu]
   [[menu.main]]
