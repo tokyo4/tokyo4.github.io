@@ -19,6 +19,7 @@ buildExpired = false
   DateFormat = 'January 2, 2006'
   defaultTheme = 'auto' # dark, light
   disableThemeToggle = false
+  paginate = 10
 
   ShowReadingTime = true
   ShowShareButtons = true
