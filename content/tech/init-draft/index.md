@@ -4,13 +4,14 @@ draft = false
 title = 'Init Draft'
 +++
 
-# 设置好之后，本地可以，github pages不更新
+### After setting it up, it works locally but not on GitHub Pages
 <!--more-->
-本地终端执行 hugo server -D 的时候，本地草稿态在浏览器内访问正常。
-但是upload到github上就是不行。
-github actions应该没问题。
-所以上网查了下，尝试了一堆办法，一开始使用 hugo进行编译，没用。
-后来把每一个文章中的初始化中的设置draft 改为了 false后就可行了。
-官方文档中也有
+When running hugo server -D in the local terminal, the draft content is accessible in the browser as expected. However, after uploading to GitHub, it doesn't work.
 
-[Notice the draft value in the front matter is true. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.](https://gohugo.io/getting-started/quick-start/#add-content)
+The issue doesn't seem to be with GitHub Actions.
+
+I searched online and tried various solutions. Initially, I used Hugo to compile the site, but it didn’t work. Later, I changed the draft value to false in the front matter of each article, and then it worked.
+
+The official documentation also mentions this:
+
+Notice the draft value in the front matter is true. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.

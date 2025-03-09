@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Right-Angle Feint'
 theme = 'PaperMod'
 
+
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -109,6 +110,9 @@ buildExpired = false
     disableAliases = false
     pagerSize = 10
     path = 'page'
+
+  [pagination]
+    pagerSize = 10
 
 [menu]
   [[menu.main]]
