@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2025 23:01:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 17:45:28 +0800</lastBuildDate>
     <atom:link href="https://tokyo4.github.io/categories/tech-record/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac Py Install Qs</title>
+      <link>https://tokyo4.github.io/tech/mac-py-install-qs/</link>
+      <pubDate>Fri, 04 Apr 2025 17:45:28 +0800</pubDate>
+      <guid>https://tokyo4.github.io/tech/mac-py-install-qs/</guid>
+      <description>&lt;h1 id=&#34;solving-python-installation-issues-on-macos-to-start-building-ai-products&#34;&gt;Solving Python Installation Issues on macOS to Start Building AI Products&lt;/h1&gt;
+&lt;p&gt;Recently, I&amp;rsquo;ve been really interested in studying AI and building my first AI product.&lt;/p&gt;
+&lt;p&gt;To do that, I need to learn some Python.&lt;/p&gt;
+&lt;p&gt;At first, I tried to install Python on my Mac Mini M4, but it didn&amp;rsquo;t work as I expected.&lt;/p&gt;
+&lt;p&gt;I searched online and found that the issue was related to the Python version.&lt;/p&gt;
+&lt;p&gt;There is already a version of Python installed on my Mac Mini, but I need to use the &lt;code&gt;python3&lt;/code&gt; or &lt;code&gt;pip3&lt;/code&gt; command in the terminal.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Init Draft</title>
       <link>https://tokyo4.github.io/tech/init-draft/</link>

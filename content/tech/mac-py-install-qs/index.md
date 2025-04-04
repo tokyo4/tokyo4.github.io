@@ -1,6 +1,6 @@
 +++
 date = '2025-04-04T17:45:28+08:00'
-draft = true
+draft = false
 title = 'Mac Py Install Qs'
 tags = ["tech"]
 categories = ["tech-record"]
