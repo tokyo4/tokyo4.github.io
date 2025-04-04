@@ -2,6 +2,8 @@
 date = '2025-02-23T23:01:11+08:00'
 draft = false
 title = 'Init Draft'
+tags = ["tech"]
+categories = ["tech-record"]
 +++
 
 ### After setting it up, it works locally but not on GitHub Pages

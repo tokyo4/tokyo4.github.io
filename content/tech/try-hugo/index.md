@@ -2,6 +2,8 @@
 date = '2025-02-23T19:26:33+08:00'
 draft = false
 title = 'Try Hugo'
+tags = ["tech"]
+categories = ["tech-record"]
 +++
 
 # First try to use Hugo to build my own GitHub Pages as my blog

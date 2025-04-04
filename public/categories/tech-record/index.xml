@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech-Record on Right-Angle Feint</title>
+    <link>https://tokyo4.github.io/categories/tech-record/</link>
+    <description>Recent content in Tech-Record on Right-Angle Feint</description>
+    <image>
+      <title>Right-Angle Feint</title>
+      <url>https://tokyo4.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tokyo4.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2025 23:01:11 +0800</lastBuildDate>
+    <atom:link href="https://tokyo4.github.io/categories/tech-record/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init Draft</title>
+      <link>https://tokyo4.github.io/tech/init-draft/</link>
+      <pubDate>Sun, 23 Feb 2025 23:01:11 +0800</pubDate>
+      <guid>https://tokyo4.github.io/tech/init-draft/</guid>
+      <description>&lt;h3 id=&#34;after-setting-it-up-it-works-locally-but-not-on-github-pages&#34;&gt;After setting it up, it works locally but not on GitHub Pages&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Try Hugo</title>
+      <link>https://tokyo4.github.io/tech/try-hugo/</link>
+      <pubDate>Sun, 23 Feb 2025 19:26:33 +0800</pubDate>
+      <guid>https://tokyo4.github.io/tech/try-hugo/</guid>
+      <description>&lt;h1 id=&#34;first-try-to-use-hugo-to-build-my-own-github-pages-as-my-blog&#34;&gt;First try to use Hugo to build my own GitHub Pages as my blog&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
