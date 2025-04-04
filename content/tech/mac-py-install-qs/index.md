@@ -1,7 +1,7 @@
 +++
 date = '2025-04-04T17:45:28+08:00'
 draft = false
-title = 'Mac Py Install Qs'
+title = 'Mac Python Install Qs'
 tags = ["tech"]
 categories = ["tech-record"]
 +++
